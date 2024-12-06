@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24/Content/Blueprints/Components/BPAC_Health_Component.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24/Content/Blueprints/Components/BP_SC_TestComponent.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24/Content/Blueprints/BP_Component.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24/Content/Blueprints/Components/NewActorComponent.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24/Content/Blueprints/HealthComponent.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JS/VW9C0ASLORJZMYASR1MK4O.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NX/4VFBIYJL21LT0PZZFY16CM.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/H1/Q8WRBTA5IDMXZ6IRD8JHAL.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/GO/UM14LF3KQEB41L9IMY8Y8Y.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VP/9TP8QV5CRAQ0SUWB49D5RC.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/QO/P9G14GL3KQMVQX5NPEPNVZ.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XV/RI6WWH8QH455ZJNTWRDL0I.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0N/4MOAQ3RONBW5698I8AISYF.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1S/G1D9NARJGMDW76P83GCD5Q.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/J8/D4UPSWC1VPAVGFRL1QN4Y2.uasset",
+				"F:/UE5/UE5Project/UE5-OTUS-MYProject11_24 5.4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+			]
+		}
+	]
+}
